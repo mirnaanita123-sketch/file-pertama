@@ -1,0 +1,2 @@
+# file-pertama
+tugas saya
